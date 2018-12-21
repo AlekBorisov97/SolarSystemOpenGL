@@ -1,0 +1,5 @@
+﻿  Transform.cpp
+d:\projects\solarsystem\solarsystem\solarsystem\transform.cpp(20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\projects\solarsystem\solarsystem\solarsystem\transform.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\solarsystem\solarsystem\solarsystem\transform.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SolarSystem.vcxproj -> D:\PROJECTS\SolarSystem\SolarSystem\Debug\SolarSystem.exe
